@@ -6,7 +6,7 @@ I have plans to learn Javascript (Am still learning it although its my name lol)
 
 Links -
 Github (Here) - https://github.com/OfficialJavaScript
-Google Developer Account - g.dev/sebj
+Google Developer Account - https://g.dev/sebj/
 Scratch - https://scratch.mit.edu/users/SebScratch12/
 Steam - https://steamcommunity.com/id/SebJ1000/
 Reddit - https://www.reddit.com/user/SebJ1000
