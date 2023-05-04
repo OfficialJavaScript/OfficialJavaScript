@@ -1,4 +1,4 @@
-Hi, I'm @OfficialJavaScript, Also known as Seb. I am a student currently. I enjoy learning how to code, and do some Ethical Hacking on Hack The Box and other hacking websites.
+Hi, I'm @OfficialJavaScript, Also known as Seb. I am a student currently. I enjoy learning how to code, and doing some Ethical Hacking on Hack The Box and other hacking websites.
 
 I don't post a lot at the moment because I am busy doing my learning/studying. Once I finish school (Quite a few years away) I will probably be back into the swing of posting more things on GitHub.
 
