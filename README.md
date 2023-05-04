@@ -4,6 +4,8 @@ I don't post a lot at the moment because I am busy doing my learning/studying. O
 
 I have plans to learn Javascript (Am still learning it although its my name lol), CSS, Java, Python, Go, Rust, and a couple of other languages that I can't think of off the top of my head.
 
+Known Programming languages: Html, and CSS.
+
 Links -
 Github (Here) - https://github.com/OfficialJavaScript
 Google Developer Account - https://g.dev/sebj/
