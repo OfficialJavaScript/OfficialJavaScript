@@ -1,19 +1,32 @@
-Hi, I'm @OfficialJavaScript, Also known as Seb. I am a student currently. I enjoy learning how to code, and doing some Ethical Hacking on Hack The Box and other hacking websites.
+# Welcome, I'm [@OfficialJavaScript](https://github.com/OfficialJavaScript), Also known as Seb.
 
-I don't post a lot at the moment because I am busy doing my learning/studying. Once I finish school (Quite a few years away) I will probably be back into the swing of posting more things on GitHub.
+I enjoy learning how to code and doing some Ethical Hacking on HackTheBox, TryHackMe, and among other websites.
 
-I have plans to learn Javascript (Am still learning it although its my name lol), CSS, Java, Python, Go, Rust, and a couple of other languages that I can't think of off the top of my head.
+I don't post a lot at the moment because I am busy doing my learning/studying. 
 
-Known Programming languages: Html, and CSS.
+# Programming Languages I want to learn
 
-Learning At the Moment - Python
+Javascript, Java, Python, Go, Rust, Ruby, Kotlin, Lua, Perl, and C, among many others!
 
-Links -
-Github (Here) - https://github.com/OfficialJavaScript
-Google Developer Account - https://g.dev/sebj/
-Scratch - https://scratch.mit.edu/users/SebScratch12/
-Steam - https://steamcommunity.com/id/SebJ1000/
-Reddit - https://www.reddit.com/user/SebJ1000
+# Programming Languages I am Familiar with
+
+Known Programming Languages: HTML, CSS, Python, and some Bash.
+
+# Current Projects
+
+* My Website - https://sebjohnstone.me/
+* My Youtube Downloader - https://github.com/OfficialJavaScript/Youtube-Download
+* Creating a Web Starter Pack
+* Coding some fun tools in Python
+* And some other cool things!
+
+# Links
+* [Github](https://github.com/OfficialJavaScript)
+* [Google Developer Account](https://g.dev/sebj/)
+* [Scratch](https://scratch.mit.edu/users/SebScratch12/)
+* [Steam](https://steamcommunity.com/id/SebJ1000/)
+* [Reddit](https://www.reddit.com/user/SebJ1000)
+* [My Website](https://sebjohnstone.me/)
 <!---
 OfficialJavaScript/OfficialJavaScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
