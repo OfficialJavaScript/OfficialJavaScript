@@ -1,12 +1,12 @@
 # Welcome, I'm [@OfficialJavaScript](https://github.com/OfficialJavaScript), Also known as Seb.
 
-I enjoy learning how to code and doing some Ethical Hacking on HackTheBox, TryHackMe, and among others.
+I enjoy learning how to code and doing some Ethical Hacking on HackTheBox, TryHackMe, among many others.
 
-I don't post a lot at the moment because I am busy doing my learning/studying. 
+I don't post a lot at the moment because I am busy learning/studying. 
 
 # Programming Languages I want to learn
 
-Javascript, Java, Python, Go, Rust, Ruby, Kotlin, Lua, Perl, and C, among many others!
+Javascript, Java, Python, Go, Rust, Ruby, Kotlin, Lua, Perl, C, and among many others!
 
 # Programming Languages I am Familiar with
 
