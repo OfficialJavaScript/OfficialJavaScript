@@ -1,8 +1,8 @@
 # Welcome, I'm [@OfficialJavaScript](https://github.com/OfficialJavaScript), Also known as Seb.
 
-I enjoy learning how to code and doing some Ethical Hacking on HackTheBox, TryHackMe, among many others.
+I enjoy learning how to code and doing some Ethical Hacking on HackTheBox, and TryHackMe, among many others.
 
-I don't post a lot at the moment because I am busy learning/studying. 
+I don't post a lot because I am busy learning/studying. 
 
 # Programming Languages I want to learn
 
@@ -10,7 +10,10 @@ Javascript, Java, Python, Go, Rust, Ruby, Kotlin, Lua, Perl, C, and among many o
 
 # Programming Languages I am Familiar with
 
-HTML, CSS, Python, and some Bash.
+* HTML and CSS - My websites for proof: [sebjohnstone.me](https://sebjohnstone.me/), [sebjohnstone.me/freddiesflowerboutique](https://sebjohnstone.me/freddiesflowerboutique/), [bytequest-interactive.github.io](https://bytequest-interactive.github.io/) and [hacked-horizon.github.io](https://hacked-horizon.github.io/)
+* Python - Projects for Proof: [github.com/OfficialJavaScript/Quiz-Time](https://github.com/OfficialJavaScript/Quiz-Time), [github.com/OfficialJavaScript/GIF_to_ASCII](https://github.com/OfficialJavaScript/GIF_to_ASCII), and [github.com/OfficialJavaScript/Win98Keygen](https://github.com/OfficialJavaScript/Win98Keygen)
+* Some Bash
+* Some Ruby - My learning Repo: [github.com/OfficialJavaScript/Ruby-and-Python](https://github.com/OfficialJavaScript/Ruby-and-Python)
 
 # Current Projects
 
@@ -26,7 +29,7 @@ HTML, CSS, Python, and some Bash.
 
 # Experience and Skills
 
-* I have experience with setting up machines with different Operating Systems, such as Windows, and Linux.
+* I have experience setting up machines with different Operating Systems, such as Windows, and Linux.
 * I am very proficient with Windows.
 * I know how to Build websites (And can size for different devices if I am given the tools.)
 * I have basic Linux skills, meaning I can move through directories, remove, change permissions, add users ETC.
