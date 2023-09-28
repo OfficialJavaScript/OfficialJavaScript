@@ -20,6 +20,8 @@ HTML, CSS, Python, and some Bash.
 * Programming a Quiz in Python for school - https://github.com/OfficialJavaScript/Quiz-Time
 * Creating a Web Starter Pack
 * Coding some fun tools in Python
+* Learning Python & Ruby - My learning Repo: https://github.com/OfficialJavaScript/Ruby-and-Python
+* Coding a Forum - Have a look at the HTML version here: https://hacked-horizon.github.io/
 * And some other cool things!
 
 # Experience and Skills
