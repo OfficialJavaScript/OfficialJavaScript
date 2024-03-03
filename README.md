@@ -40,7 +40,13 @@ Javascript, Java, Python, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many other
 
 # Achivements
 
-* Level 1 Digi endorsed with Excellence - Internal projects - [sebjohnstone.me/freddiesflowerboutique](https://sebjohnstone.me/freddiesflowerboutique/), and [github.com/OfficialJavaScript/Quiz-Time](https://github.com/OfficialJavaScript/Quiz-Time), External: 91886 - Demonstrate understanding of human computer interaction (This standard has expired and is no longer available.)
+## Level 1 Digital Technologies Web Based endorsed with Excellence:
+### Internal projects (None of these standards are available anymore):
+91884 (6 Credits) and 91880 (4 Credits) [Freddies Flower Boutique](https://sebjohnstone.me/freddiesflowerboutique/)
+
+91883 (4 Credits) [Quiz Time](https://github.com/OfficialJavaScript/Quiz-Time)
+### External: 
+91886 (3 Credits) - Demonstrate understanding of human computer interaction (This standard has expired and is no longer available.)
 
 # Links
 * [Github](https://github.com/OfficialJavaScript)
