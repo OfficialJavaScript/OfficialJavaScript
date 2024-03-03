@@ -9,16 +9,15 @@ I don't post a lot because I am busy learning/studying.
 Javascript, Java, Python, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many others!
 
 # Programming Languages I am Familiar with
-
-* HTML and CSS - My websites for proof: [sebjohnstone.me](https://sebjohnstone.me/), [sebjohnstone.me/freddiesflowerboutique](https://sebjohnstone.me/freddiesflowerboutique/), [bytequest-interactive.github.io](https://bytequest-interactive.github.io/) and [hacked-horizon.github.io](https://hacked-horizon.github.io/)
-* Python - Projects for Proof: [github.com/OfficialJavaScript/Quiz-Time](https://github.com/OfficialJavaScript/Quiz-Time), [github.com/OfficialJavaScript/GIF_to_ASCII](https://github.com/OfficialJavaScript/GIF_to_ASCII), and [github.com/OfficialJavaScript/Win98Keygen](https://github.com/OfficialJavaScript/Win98Keygen)
+* HTML and CSS - My websites for proof: [sebjohnstone.me](https://sebjohnstone.me/), [sebjohnstone.me/freddiesflowerboutique](https://sebjohnstone.me/freddiesflowerboutique/), [bytequestinteractive.tech/index/](https://bytequestinteractive.tech/index/]) and [hacked-horizon.github.io](https://hacked-horizon.github.io/)
+* Python - Projects for Proof: [github.com/OfficialJavaScript/Quiz-Time](https://github.com/OfficialJavaScript/Quiz-Time), [github.com/OfficialJavaScript/GIF_to_ASCII](https://github.com/OfficialJavaScript/GIF_to_ASCII), [github.com/OfficialJavaScript/Win98Keygen](https://github.com/OfficialJavaScript/Win98Keygen), and [github.com/OfficialJavaScript/Quiz-Time](https://github.com/OfficialJavaScript/Quiz-Time)
 * Some Bash
 * Some Ruby - My learning Repo: [github.com/OfficialJavaScript/Ruby-and-Python](https://github.com/OfficialJavaScript/Ruby-and-Python)
 
 # Current Projects
 
 * My Website - https://sebjohnstone.me/
-* Bytequest Interactive's website https://bytequest-interactive.github.io/
+* Bytequest Interactive's website https://bytequestinteractive.tech/index/
 * My Youtube Downloader - https://github.com/OfficialJavaScript/Youtube-Download
 * Programming a Quiz in Python for school - https://github.com/OfficialJavaScript/Quiz-Time
 * Creating a Web Starter Pack
@@ -38,6 +37,10 @@ Javascript, Java, Python, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many other
 * Give me time and resources and I will get things done to the best of my ability.
 * I have setup hidden tor services - for proof have a look at Freddies Flower Boutique (you can access the non-tor version at https://sebjohnstone.me/freddiesflowerboutique/): 6tads3scxncrhbp5forr3ollum2g3l2q3xapqb4wcgqilz3ngffvlvyd.onion
 * I have experience with managing cloud servers - I have a Tor Website hosted on one server and another server that I use as a sort of Home Lab.
+
+# Achivements
+
+* Level 1 Digi endorsed with Excellence - Internal projects - [sebjohnstone.me/freddiesflowerboutique](https://sebjohnstone.me/freddiesflowerboutique/), and [github.com/OfficialJavaScript/Quiz-Time](https://github.com/OfficialJavaScript/Quiz-Time), External: 91886 - Demonstrate understanding of human computer interaction (This standard has expired and is no longer available.)
 
 # Links
 * [Github](https://github.com/OfficialJavaScript)
