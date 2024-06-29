@@ -40,11 +40,14 @@ Javascript, Java, Python, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many other
 # Gear
 
 ## Playstations:
-#### PS3 Slim (Charcoal Black) CECH-2502B - Evilnat Cobra 8.4 CEX 4.91
-#### PS3 Super-Slim (Charcoal Black) CECH-4002C - OFW 4.89
 
-#### PS4 Original (Glacier White) CUH-1202A - GoldHEN v2.4b14 (beta) FW v9.00
-#### PS4 Pro (Jet Black) CUH-7202B - OFW 11.50
+#### PS2 Phat (Matte Black) SCPH-50002 (PAL) - FreeHDBoot v1.966 - 1TB HDD
+
+#### PS3 Slim (Charcoal Black) CECH-2502B - Evilnat Cobra 8.4 CEX 4.91 - 1TB HDD
+#### PS3 Super-Slim (Charcoal Black) CECH-4002C - OFW 4.89 - 500GB HDD
+
+#### PS4 Original (Glacier White) CUH-1202A - GoldHEN v2.4b14 (beta) FW v9.00 - 500GB HDD
+#### PS4 Pro (Jet Black) CUH-7202B - OFW 11.50 - 1TB HDD
 
 ## Phones:
 #### Samsung Galaxy S III - Android 4.3 Jellybean | GT-i9300
