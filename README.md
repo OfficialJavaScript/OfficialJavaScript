@@ -52,15 +52,15 @@ Javascript, Java, Python, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many other
 ## Phones:
 #### Samsung Galaxy S III - Android 4.3 Jellybean | GT-i9300
 #### Samsung Galaxy S7 Edge - Pixel Experience 14.0 Android 14 | Magisk 27.0 | TWRP 3.7.0 | SM-G935f
-#### Samsung Galaxy S9 - Noble Rom 4.0 Calabria Android 14 (Based on OneUI 6.0 from S21) | Magisk 27.0 | TWRP 3.7.0 | SM-G960f
+#### Samsung Galaxy S9 - Noble Rom 4.1.1 Calabria Android 14 (Based on OneUI 6.1) | Magisk 27.0 | TWRP 3.7.0 | SM-G960f
 #### Samsung Galaxy J6+ - Havoc OS 3.3 Android 10 | Magisk 26.4 | TWRP 3.7.0 | SM-J610g
 #### Samsung Galaxy Core Prime - Android 5.1.1 | SM-G360G
 #### Samsung Galaxy A02 - OneUI Core 3.1 Android 11 | Magisk 24.3 | SM-A022f
 
 #### Meizu M3 Note - Flyme 6.3.0.0G Android 5.1 Rooted | m681h
-#### Meizu M6 Note - Lineage OS 18.1 Android 11 | TWRP 3.2.1 | m721l
+#### Meizu M6 Note - Lineage OS 20 Android 13 | TWRP 3.2.1 | m721l
 
-#### Xiaomi Redmi Note 12 Pro 5G - HyperOS 1.0.1.0.UMOMIXM Android 14 | 22101316G (Ruby)
+#### Xiaomi Redmi Note 12 Pro 5G - HyperOS 1.0.4.0.UMOMIXM Android 14 | 22101316G (Ruby)
 
 #### Sony Ericsson Walkman W950i
 
@@ -69,7 +69,8 @@ Javascript, Java, Python, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many other
 
 #### HP EliteBook 850 G5 - Intel Core i7 8650U - Intel UHD 620 & AMD Radeon RX 540X  - 16GB DDR4 (SODIMM) 2400MHz | Windows 11 Pro
 
-#### HP Pavillion DV7-2211TX Entertainment PC - Intel Core 2 Duo P8700 - ATI Mobility Radeon HD 4650 - 2x Hynix 2GB DDR3 (SODIMM) 1066MHz (HMT125S6BFR8C-G7) | Windows 10 Home & Linux Mint 21.1 xfce
+#### HP Pavillion DV7-2211TX Entertainment PC - Intel Core 2 Duo P8700 - ATI Mobility Radeon HD 4650 - 2x Hynix 2GB DDR3 (SODIMM) 1066MHz (HMT125S6BFR8C-G7) | Fedora Workstation 40
+
 <!---
 OfficialJavaScript/OfficialJavaScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
