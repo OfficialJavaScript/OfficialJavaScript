@@ -6,7 +6,7 @@ I don't post a lot because I am busy learning/studying.
 
 # Programming Languages I want to learn
 
-Javascript, Java, Python, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many others!
+Javascript, Java, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many others!
 
 # Programming Languages I am Familiar with
 * HTML and CSS 
