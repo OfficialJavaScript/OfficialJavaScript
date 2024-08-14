@@ -36,10 +36,11 @@ Javascript, Java, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many others!
 * Give me time and resources and I will get things done to the best of my ability.
 * I have setup hidden tor services.
 * I have experience with managing cloud servers.
+* Windows Insider since 4/3/2019
 
 # Gear
 
-## Playstations:
+## Consoles:
 
 #### PS2 Phat (Matte Black) SCPH-50002 (PAL) - FreeHDBoot v1.966 - 1TB HDD
 
@@ -60,7 +61,7 @@ Javascript, Java, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many others!
 #### Meizu M3 Note - Flyme 6.3.0.0G Android 5.1 Rooted | m681h
 #### Meizu M6 Note - Lineage OS 20 Android 13 | TWRP 3.2.1 | m721l
 
-#### Xiaomi Redmi Note 12 Pro 5G - HyperOS 1.0.4.0.UMOMIXM Android 14 | 22101316G (Ruby)
+#### Xiaomi Redmi Note 12 Pro 5G - HyperOS 1.0.5.0.UMOMIXM Android 14 | 22101316G (Ruby)
 
 #### Sony Ericsson Walkman W950i
 
