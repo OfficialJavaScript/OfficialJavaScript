@@ -41,7 +41,7 @@ Javascript, Java, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many others!
 # Gear
 
 ## Consoles:
-
+### Playstation
 #### PS2 Phat (Matte Black) SCPH-50002 (PAL) - FreeHDBoot v1.966 - 1TB HDD
 
 #### PS3 Slim (Charcoal Black) CECH-2502B - Evilnat Cobra 8.4 CEX 4.91 - 1TB HDD
@@ -49,6 +49,10 @@ Javascript, Java, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many others!
 
 #### PS4 Original (Glacier White) CUH-1202A - GoldHEN v2.4b16.2 (beta) FW v9.00 - 500GB HDD
 #### PS4 Pro (Jet Black) CUH-7202B - OFW 11.50 - 1TB HDD
+
+### Xbox
+#### Xbox 1.6 (Tuscany) - To be modded.
+
 
 ## Phones:
 #### Samsung Galaxy S III - Android 4.3 Jellybean | GT-i9300
@@ -71,6 +75,8 @@ Javascript, Java, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many others!
 #### HP EliteBook 850 G5 - Intel Core i7 8650U - Intel UHD 620 & AMD Radeon RX 540X  - 16GB DDR4 (SODIMM) 2400MHz | Windows 11 Pro
 
 #### HP Pavillion DV7-2211TX Entertainment PC - Intel Core 2 Duo P8700 - ATI Mobility Radeon HD 4650 - 2x Hynix 2GB DDR3 (SODIMM) 1066MHz (HMT125S6BFR8C-G7) | Fedora Workstation 40
+
+#### Microsoft Surface RT - NVIDIA Tegra 2 - Geforce ULP - 2GB LPDDR2 533 MHz - 32GB ROM | Raspbian 12 (Bookworm)
 
 <!---
 OfficialJavaScript/OfficialJavaScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
