@@ -76,7 +76,7 @@ Javascript, Java, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many others!
 
 #### HP Pavillion DV7-2211TX Entertainment PC - Intel Core 2 Duo P8700 - ATI Mobility Radeon HD 4650 - 2x Hynix 2GB DDR3 (SODIMM) 1066MHz (HMT125S6BFR8C-G7) | Fedora Workstation 40
 
-#### Microsoft Surface RT - NVIDIA Tegra 2 - Geforce ULP - 2GB LPDDR2 533 MHz - 32GB ROM | Raspbian 12 (Bookworm)
+#### Microsoft Surface RT - NVIDIA Tegra 2 - Geforce ULP - 2GB LPDDR2 533 MHz - 32GB ROM | Raspbian 12 (Bookworm) | [Tegra Jailbreak](https://windows-rt-devices.gitbook.io/windows/tools/tegra-jailbreak-usb) ([Golden Key](https://github.com/lgibson02/GoldenKeysUSB) and [Yahallo](https://github.com/NekomimiRouter/yahallo) in an Exploit Chain.)
 
 <!---
 OfficialJavaScript/OfficialJavaScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
