@@ -1,18 +1,6 @@
-# Welcome, I'm [@OfficialJavaScript](https://github.com/OfficialJavaScript), Also known as Seb.
+### Welcome to my corner of the web! I'm Seb, also known as [@OfficialJavaScript](https://github.com/OfficialJavaScript/), where I'm diving deep into the world of coding, ethical hacking, and mastering a growing arsenal of programming languages.
 
-I enjoy learning how to code and doing some Ethical Hacking on HackTheBox, and TryHackMe, among many others.
-
-I don't post a lot because I am busy learning/studying. 
-
-# Programming Languages I want to learn
-
-Javascript, Java, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many others!
-
-# Programming Languages I am Familiar with
-* HTML and CSS 
-* Python 
-* Some Bash
-* Some Ruby - My learning Repo: [github.com/OfficialJavaScript/Ruby-and-Python](https://github.com/OfficialJavaScript/Ruby-and-Python)
+### I am proficient in Python, HTML, and CSS. I also have some rough knowledge of JS and some BASH.
 
 # Current Projects
 
@@ -48,11 +36,10 @@ Javascript, Java, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many others!
 #### PS3 Super-Slim (Charcoal Black) CECH-4002C - OFW 4.91 - 500GB HDD
 
 #### PS4 Original (Glacier White) CUH-1202A - GoldHEN v2.4b16.2 (beta) FW v9.00 - 500GB HDD
-#### PS4 Pro (Jet Black) CUH-7202B - OFW 11.50 - 1TB HDD
+#### PS4 Pro (Jet Black) CUH-7202B - OFW 11.52 - 1TB HDD
 
 ### Xbox
 #### Xbox 1.6 (Tuscany) - To be modded.
-
 
 ## Phones:
 #### Samsung Galaxy S III - Android 4.3 Jellybean | GT-i9300
@@ -65,7 +52,7 @@ Javascript, Java, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many others!
 #### Meizu M3 Note - Flyme 6.3.0.0G Android 5.1 Rooted | m681h
 #### Meizu M6 Note - Lineage OS 20 Android 13 | TWRP 3.2.1 | m721l
 
-#### Xiaomi Redmi Note 12 Pro 5G - HyperOS 1.0.5.0.UMOMIXM Android 14 | 22101316G (Ruby)
+#### Xiaomi Redmi Note 12 Pro 5G - HyperOS 1.0.7.0.UMOMIXM Android 14 | 22101316G (Ruby)
 
 #### Sony Ericsson Walkman W950i
 
@@ -77,6 +64,8 @@ Javascript, Java, Go, Rust, Ruby, Kotlin, Lua, Perl, C, among many others!
 #### HP Pavillion DV7-2211TX Entertainment PC - Intel Core 2 Duo P8700 - ATI Mobility Radeon HD 4650 - 2x Hynix 2GB DDR3 (SODIMM) 1066MHz (HMT125S6BFR8C-G7) | Fedora Workstation 40
 
 #### Microsoft Surface RT - NVIDIA Tegra 3 - Geforce ULP - 2GB LPDDR2 533 MHz - 32GB ROM | Raspbian 12 (Bookworm) | [Tegra Jailbreak](https://windows-rt-devices.gitbook.io/windows/tools/tegra-jailbreak-usb) ([Golden Key](https://github.com/lgibson02/GoldenKeysUSB) and [Yahallo](https://github.com/NekomimiRouter/yahallo) in an Exploit Chain.)
+
+#### Coolmaster N300 - Intel Core i7 6700k - Intel HD Graphics 530 (Upgrade in future) - Kingston FURY 16gb DDR4 3200MHz (KF432C16BB/8) - Gigabyte Z170X-Designare - SeaSonic X-750 | Windows 10 Pro
 
 <!---
 OfficialJavaScript/OfficialJavaScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
