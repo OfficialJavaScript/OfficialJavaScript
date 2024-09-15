@@ -39,7 +39,7 @@
 #### PS4 Pro (Jet Black) CUH-7202B - OFW 11.52 - 1TB HDD
 
 ### Xbox
-#### Original Xbox 1.6 (Tuscany) - Rocky5's Xbox Softmodding Tool v1.2.2 - 10GB HDD
+#### Original Xbox 1.6 (Tuscany) - Rocky5's Xbox Softmodding Tool v1.2.1 - 10GB HDD
 
 ## Phones:
 #### Samsung Galaxy S III - Android 4.3 Jellybean | GT-i9300
