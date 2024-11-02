@@ -2,16 +2,13 @@
 
 ### I am proficient in Python, HTML, and CSS. I also have some rough knowledge of JS and some BASH.
 
-# Current Projects
+# Projects
 
-* Bytequest Interactive's website https://bytequestinteractive.tech/index/
-* My Youtube Downloader - https://github.com/OfficialJavaScript/Youtube-Download
-* Programming a Quiz in Python for school - https://github.com/OfficialJavaScript/Quiz-Time
-* Creating a Web Starter Pack
-* Coding some fun tools in Python
-* Learning Python & Ruby - My learning Repo: https://github.com/OfficialJavaScript/Ruby-and-Python
-* Coding a Forum - Have a look at the HTML version here: https://hacked-horizon.github.io/
-* And some other cool things!
+* [Pyxia](https://github.com/Pyxia-Security/Pyxia) - My 2024 school social media project (Excellence), [@Pyxia-Security](https://github.com/Pyxia-Security).
+* [CstmPYLib](https://github.com/OfficialJavaScript/cstmpylib) - My custom Python Libraries.
+* [WeatherAPP](https://github.com/OfficialJavaScript/weatherapp) - My Python Weather app.
+* [Root-and-Rom](https://github.com/OfficialJavaScript/Root-and-Rom) - My guide I'm creating to help root android phones.
+* [KernelExpl0it](https://kernelexpl0it.github.io/) - Console exploit directory, [@KernelExpl0it](https://github.com/KernelExpl0it).
 
 # Experience and Skills
 
@@ -35,7 +32,7 @@
 #### PS3 Slim (Charcoal Black) CECH-2502B - Evilnat Cobra 8.4 CEX 4.91 - 1TB HDD
 #### PS3 Super-Slim (Charcoal Black) CECH-4002C - OFW 4.91 - 500GB HDD
 
-#### PS4 Original (Glacier White) CUH-1202A - GoldHEN v2.4b16.2 (beta) FW v9.00 - 500GB HDD
+#### PS4 Original (Glacier White) CUH-1202A - GoldHEN v2.4b17.3 FW v9.00 - 500GB HDD
 #### PS4 Pro (Jet Black) CUH-7202B - OFW 11.52 - 1TB HDD
 
 ### Xbox
@@ -59,7 +56,7 @@
 ## Computers:
 #### HP Z600 V2 - 2x Intel Xeon X5672 - Zotac GTX 970 - 48GB DDR3 800MHz ECC Memory | Windows 10 Enterprise
 
-#### HP EliteBook 850 G5 - Intel Core i7 8650U - Intel UHD 620 & AMD Radeon RX 540X  - 16GB DDR4 (SODIMM) 2400MHz | Windows 11 Pro
+#### HP ZBook 15 G6 - Intel Core i7 9750H - NVIDIA Quadro T1000 - 32GB DDR4 2667MT/s | Windows 11 Pro
 
 #### HP Pavillion DV7-2211TX Entertainment PC - Intel Core 2 Duo P8700 - ATI Mobility Radeon HD 4650 - 2x Hynix 2GB DDR3 (SODIMM) 1066MHz (HMT125S6BFR8C-G7) | Fedora Workstation 40
 
