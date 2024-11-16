@@ -37,6 +37,10 @@
 
 ### Xbox
 #### Original Xbox 1.6 (Tuscany) - Rocky5's Xbox Softmodding Tool v1.2.1 - 10GB HDD
+#### Xbox 360 Slim (Glossy Black) - Metro Dashboard (2.0.16537.0) - 250GB HDD
+
+### Nintendo
+#### Nintendo Wii (White) - RVL-001 (AUS)
 
 ## Phones:
 #### Samsung Galaxy S III - Android 4.3 Jellybean | GT-i9300
