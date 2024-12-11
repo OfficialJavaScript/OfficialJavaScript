@@ -58,7 +58,7 @@
 #### Sony Ericsson Walkman W950i
 
 ## Computers:
-#### HP Z600 V2 - 2x Intel Xeon X5672 - Zotac GTX 970 - 48GB DDR3 800MHz ECC Memory | Windows 10 Enterprise
+#### Coolmaster N300 - Intel Core i7 6700k - Zotac GTX 970 - Kingston FURY 16gb DDR4 3200MHz (KF432C16BB/8) - Gigabyte Z170X-Designare - SeaSonic X-750 | Windows 11 Pro
 
 #### HP ZBook 15 G6 - Intel Core i7 9750H - NVIDIA Quadro T1000 - 32GB DDR4 2667MT/s | Windows 11 Pro
 
@@ -66,7 +66,6 @@
 
 #### Microsoft Surface RT - NVIDIA Tegra 3 - Geforce ULP - 2GB LPDDR2 533 MHz - 32GB ROM | Raspbian 12 (Bookworm) | [Tegra Jailbreak](https://windows-rt-devices.gitbook.io/windows/tools/tegra-jailbreak-usb) ([Golden Key](https://github.com/lgibson02/GoldenKeysUSB) and [Yahallo](https://github.com/NekomimiRouter/yahallo) in an Exploit Chain.)
 
-#### Coolmaster N300 - Intel Core i7 6700k - Intel HD Graphics 530 (Upgrade in future) - Kingston FURY 16gb DDR4 3200MHz (KF432C16BB/8) - Gigabyte Z170X-Designare - SeaSonic X-750 | Windows 10 Pro
 
 <!---
 OfficialJavaScript/OfficialJavaScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
