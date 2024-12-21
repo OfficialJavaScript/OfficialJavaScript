@@ -45,10 +45,11 @@
 ## Phones:
 #### Samsung Galaxy S III - Android 4.3 Jellybean | GT-i9300
 #### Samsung Galaxy S7 Edge - Pixel Experience 14.0 Android 14 | Magisk 27.0 | TWRP 3.7.0 | SM-G935f
-#### Samsung Galaxy S9 - Noble Rom 4.1.1 Calabria Android 14 (Based on OneUI 6.1) | Magisk 27.0 | TWRP 3.7.0 | SM-G960f
+#### Samsung Galaxy S9 - Noble Rom 4.3 Calabria Android 14 (Based on OneUI 6.1.1) | Magisk 27.0 | TWRP 3.7.0 | SM-G960f
 #### Samsung Galaxy J6+ - Havoc OS 3.3 Android 10 | Magisk 26.4 | TWRP 3.7.0 | SM-J610g
 #### Samsung Galaxy Core Prime - Android 5.1.1 | SM-G360G
 #### Samsung Galaxy A02 - OneUI Core 3.1 Android 11 | Magisk 24.3 | SM-A022f
+#### Samsung Gakaxy A71 - UN1CA 2.5.2 Android 14 (Based on OneUI 6.1.1) | Magisk 28.1 | TWRP 3.6.2 | SM-A715f
 
 #### Meizu M3 Note - Flyme 6.3.0.0G Android 5.1 Rooted | m681h
 #### Meizu M6 Note - Lineage OS 20 Android 13 | TWRP 3.2.1 | m721l
