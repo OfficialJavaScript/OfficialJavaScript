@@ -40,7 +40,7 @@
 #### Xbox 360 Slim (Glossy Black) - Metro Dashboard (2.0.16537.0) - 250GB HDD
 
 ### Nintendo
-#### Nintendo Wii (White) - RVL-001 (AUS)
+#### Nintendo Wii (White) - RVL-001 (AUS) - LetterBomb 4.3E - 128GB SDXC
 
 ## Phones:
 #### Samsung Galaxy S III - Android 4.3 Jellybean | GT-i9300
@@ -59,7 +59,7 @@
 #### Sony Ericsson Walkman W950i
 
 ## Computers:
-#### Coolmaster N300 - Intel Core i7 6700k - Zotac GTX 970 - Kingston FURY 16gb DDR4 3200MHz (KF432C16BB/8) - Gigabyte Z170X-Designare - SeaSonic X-750 | Windows 11 Pro
+#### Coolmaster N300 - Intel Core i7 6700k - Gigabyte WindForce GTX 970 - Kingston FURY 16gb DDR4 3200MHz (KF432C16BB/8) - Gigabyte Z170X-Designare - SeaSonic X-750 | Windows 11 Pro
 
 #### HP ZBook 15 G6 - Intel Core i7 9750H - NVIDIA Quadro T1000 - 32GB DDR4 2667MT/s | Windows 11 Pro
 
