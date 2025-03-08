@@ -50,6 +50,7 @@
 #### Samsung Galaxy Core Prime - Android 5.1.1 | SM-G360G
 #### Samsung Galaxy A02 - OneUI Core 3.1 Android 11 | Magisk 24.3 | SM-A022f
 #### Samsung Galaxy A71 - UN1CA 2.5.2 Android 14 (Based on OneUI 6.1.1) | Magisk 28.1 | TWRP 3.6.2 | SM-A715f
+#### Samsung Galaxy S22 - OneUI 6.1 Android 14 | SM-S901E
 
 #### Meizu M3 Note - Flyme 6.3.0.0G Android 5.1 Rooted | m681h
 #### Meizu M6 Note - Lineage OS 20 Android 13 | TWRP 3.2.1 | m721l
