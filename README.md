@@ -37,7 +37,7 @@
 
 ### Xbox
 #### Original Xbox 1.6 (Tuscany) - Rocky5's Xbox Softmodding Tool v1.2.1 - 10GB HDD
-#### Xbox 360 Slim (Glossy Black) - Metro Dashboard (2.0.16537.0) - 250GB HDD
+#### Xbox 360 Slim (Glossy Black) - Reset Glitch Hack 3 - 250GB HDD
 
 ### Nintendo
 #### Nintendo Wii (White) - RVL-001 (AUS) - LetterBomb 4.3E - 128GB SDXC
