@@ -29,11 +29,12 @@
 ### Playstation
 #### PS2 Phat (Matte Black) SCPH-50002 (PAL) - FreeHDBoot v1.966 - 1TB HDD
 
-#### PS3 Slim (Charcoal Black) CECH-2502B - Evilnat Cobra 8.4 CEX 4.91 - 1TB HDD
+#### PS3 Phat (Piano Black) CECH-L02 - Evilnat Cobra 8.5 PEX 4.92 - 80GB HDD
+#### PS3 Slim (Charcoal Black) CECH-2502B - Evilnat Cobra 8.5 CEX 4.92 - 1TB HDD
 #### PS3 Super-Slim (Charcoal Black) CECH-4002C - OFW 4.91 - 500GB HDD
 
 #### PS4 Original (Glacier White) CUH-1202A - GoldHEN v2.4b17.3 FW v9.00 - 500GB HDD
-#### PS4 Pro (Jet Black) CUH-7202B - OFW 11.52 - 1TB HDD
+#### PS4 Pro (Jet Black) CUH-7202B - OFW 12.02 - 1TB HDD
 
 ### Xbox
 #### Original Xbox 1.6 (Tuscany) - Rocky5's Xbox Softmodding Tool v1.2.1 - 10GB HDD
@@ -67,12 +68,6 @@
 #### HP Pavillion DV7-2211TX Entertainment PC - Intel Core 2 Duo P8700 - ATI Mobility Radeon HD 4650 - 2x Hynix 2GB DDR3 (SODIMM) 1066MHz (HMT125S6BFR8C-G7) | Fedora Workstation 40
 
 #### Microsoft Surface RT - NVIDIA Tegra 3 - Geforce ULP - 2GB LPDDR2 533 MHz - 32GB ROM | Raspbian 12 (Bookworm) | [Tegra Jailbreak](https://windows-rt-devices.gitbook.io/windows/tools/tegra-jailbreak-usb) ([Golden Key](https://github.com/lgibson02/GoldenKeysUSB) and [Yahallo](https://github.com/NekomimiRouter/yahallo) in an Exploit Chain.)
-
-
-<!---
-OfficialJavaScript/OfficialJavaScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ![OfficialJavaScript's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialJavaScript&size_weight=0.5&count_weight=0.5\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 ![OfficialJavaScript's GitHub stats](https://github-readme-stats.vercel.app/api/?username=OfficialJavaScript\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
